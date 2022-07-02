@@ -1,0 +1,1 @@
+import WrappedJssComponent from "./WrappedStylesComponent";
