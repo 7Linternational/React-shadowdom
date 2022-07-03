@@ -31,7 +31,7 @@ export function CustomApp() {
       styleDom!.querySelector("style")!.innerHTML = `
           :host {
             --white: #fff;       
-            --button-font-color: ;
+            --button-font-color: #fb703c;
             --font-title-color: #fb703c;       
             --font-subtitle-color: #48bbb5;
             --font-family: ${fontFamilyStyle};
